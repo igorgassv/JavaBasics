@@ -1,1 +1,2 @@
 # JavaBasics
+- Code examples repository
